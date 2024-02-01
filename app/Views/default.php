@@ -17,32 +17,18 @@
                 <div class="mx-auto max-w-2xl">
                     <div class="max-w-lg">
                         <img class="h-11"
-                             src="/images/api-logo.png"
+                             src="https://dantofema.ar/images/marca-dantofema-1.png"
                              alt="Your Company">
                         <div class="mt-24 sm:mt-32 lg:mt-16">
-                            <a href="#"
-                               class="inline-flex space-x-6">
-                                <span class="rounded-full bg-indigo-600/10 px-3 py-1 text-sm font-semibold leading-6 text-indigo-600 ring-1 ring-inset ring-indigo-600/10">What's new</span>
-                                <span class="inline-flex items-center space-x-2 text-sm font-medium leading-6 text-gray-600">
-                  <span>Just shipped v0.1.0</span>
-                  <svg class="h-5 w-5 text-gray-400"
-                       viewBox="0 0 20 20"
-                       fill="currentColor"
-                       aria-hidden="true">
-                    <path fill-rule="evenodd"
-                          d="M7.21 14.77a.75.75 0 01.02-1.06L11.168 10 7.23 6.29a.75.75 0 111.04-1.08l4.5 4.25a.75.75 0 010 1.08l-4.5 4.25a.75.75 0 01-1.06-.02z"
-                          clip-rule="evenodd"/>
-                  </svg>
-                </span>
-                            </a>
+
                         </div>
-                        <h1 class="mt-10 text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">Explora Nuestra
+                        <h1 class="mt-10 text-4xl font-bold tracking-tight text-indigo-900 sm:text-6xl">Explora Nuestra
                             Colección de APIs Públicas</h1>
                         <p class="mt-6 text-lg leading-8 text-gray-600">Accede a una Amplia Gama de Recursos Gratuitos
                             para Potenciar Tus Proyectos</p>
                         <div class="mt-10 flex items-center gap-x-6">
-                            <a href="https://github.com/dantofema"
-                               class="text-sm font-semibold leading-6 text-gray-900">View on GitHub
+                            <a href="https://github.com/dantofema/public-apis"
+                               class="text-sm font-semibold leading-6 text-gray-900">Ver en GitHub
                                 <span aria-hidden="true">→</span></a>
                         </div>
                     </div>
