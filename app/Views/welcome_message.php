@@ -1,8 +1,9 @@
 <?= $this->extend('default') ?>
 
 <?= $this->section('content') ?>
-<div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+<div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 mt-4">
 
+    <?= $this->include('partials/home-form') ?>
 
     <ul role="list"
         class="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
