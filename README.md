@@ -2,7 +2,7 @@
 
 Accede a una Amplia Gama de Recursos Gratuitos para Potenciar Tus Proyecto
 
-## Intallation
+## Installation
 
 ```bash
 git clone https://github.com/dantofema/public-apis.git
