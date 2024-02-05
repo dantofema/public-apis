@@ -1,6 +1,6 @@
 # Public APIs
 
-Accede a una Amplia Gama de Recursos Gratuitos para Potenciar Tus Proyecto
+Accede a una Amplia Gama de Recursos Gratuitos para Potenciar Tus Proyectos
 
 ## Installation
 
